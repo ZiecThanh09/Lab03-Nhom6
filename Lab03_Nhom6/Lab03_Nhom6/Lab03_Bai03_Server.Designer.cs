@@ -65,6 +65,7 @@
             this.Controls.Add(this.btnListen);
             this.Name = "Lab03_Bai03_Server";
             this.Text = "Lab03_Bai03_Server";
+            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.Lab03_Bai03_Server_FormClosed);
             this.ResumeLayout(false);
 
         }

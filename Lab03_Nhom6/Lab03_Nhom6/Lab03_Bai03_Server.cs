@@ -42,8 +42,9 @@ namespace Lab03_Nhom6
                         bytesReceived = clientSocket.Receive(recv);
                         text += Encoding.UTF8.GetString(recv);
                     }
-                    while (text[text.Length - 1] != '\0');
+                    while (bytesReceived == 0);
                     lsvMessage.Items.Add(new ListViewItem(text));
+                    bytesReceived = 0;
                 }
                 listenerSocket.Close();
             }

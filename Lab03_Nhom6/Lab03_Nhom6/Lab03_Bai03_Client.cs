@@ -66,5 +66,16 @@ namespace Lab03_Nhom6
             }
             else Close();
         }
+
+        private void Lab03_Bai03_Client_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            if (tcpClient.Connected)
+            {
+                networkStream.Close();
+                tcpClient.Close();
+                MessageBox.Show("Closed Connection!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+            else Close();
+        }
     }
 }

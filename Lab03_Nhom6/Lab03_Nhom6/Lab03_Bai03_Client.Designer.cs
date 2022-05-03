@@ -132,6 +132,7 @@
             this.Controls.Add(this.btnConnect);
             this.Name = "Lab03_Bai03_Client";
             this.Text = "Lab03_Bai03_Client";
+            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.Lab03_Bai03_Client_FormClosed);
             this.ResumeLayout(false);
             this.PerformLayout();
 

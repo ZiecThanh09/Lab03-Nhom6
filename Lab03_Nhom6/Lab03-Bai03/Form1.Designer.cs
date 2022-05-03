@@ -1,5 +1,4 @@
-﻿
-namespace Lab03_Nhom6
+﻿namespace Lab03_Bai03
 {
     partial class Form1
     {

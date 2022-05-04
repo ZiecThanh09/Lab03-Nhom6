@@ -16,5 +16,11 @@ namespace Lab03_Nhom6
         {
             InitializeComponent();
         }
+
+        private void btnBai4_Click(object sender, EventArgs e)
+        {
+            Form b4 = new Lab03_Bai04();
+            b4.ShowDialog(); 
+        }
     }
 }

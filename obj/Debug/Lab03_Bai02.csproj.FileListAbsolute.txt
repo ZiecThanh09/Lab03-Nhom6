@@ -1,0 +1,22 @@
+C:\Users\User\Desktop\UIT\Lập Trình Mạng Căn Bản\Thực Hành\Bài Làm\Lab03_Bai02\Lab03_Bai02\obj\Debug\Lab03_Bai02.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\UIT\Lập Trình Mạng Căn Bản\Thực Hành\Bài Làm\Lab03_Bai02\Lab03_Bai02\obj\Debug\Lab03_Bai02.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\UIT\Lập Trình Mạng Căn Bản\Thực Hành\Bài Làm\Lab03_Bai02\Lab03_Bai02\obj\Debug\Lab03_Bai02.Form1.resources
+C:\Users\User\Desktop\UIT\Lập Trình Mạng Căn Bản\Thực Hành\Bài Làm\Lab03_Bai02\Lab03_Bai02\obj\Debug\Lab03_Bai02.Properties.Resources.resources
+C:\Users\User\Desktop\UIT\Lập Trình Mạng Căn Bản\Thực Hành\Bài Làm\Lab03_Bai02\Lab03_Bai02\obj\Debug\Lab03_Bai02.csproj.GenerateResource.cache
+C:\Users\User\Desktop\UIT\Lập Trình Mạng Căn Bản\Thực Hành\Bài Làm\Lab03_Bai02\Lab03_Bai02\obj\Debug\Lab03_Bai02.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\UIT\Lập Trình Mạng Căn Bản\Thực Hành\Bài Làm\Lab03_Bai02\Lab03_Bai02\bin\Debug\Lab03_Bai02.exe.config
+C:\Users\User\Desktop\UIT\Lập Trình Mạng Căn Bản\Thực Hành\Bài Làm\Lab03_Bai02\Lab03_Bai02\bin\Debug\Lab03_Bai02.exe
+C:\Users\User\Desktop\UIT\Lập Trình Mạng Căn Bản\Thực Hành\Bài Làm\Lab03_Bai02\Lab03_Bai02\bin\Debug\Lab03_Bai02.pdb
+C:\Users\User\Desktop\UIT\Lập Trình Mạng Căn Bản\Thực Hành\Bài Làm\Lab03_Bai02\Lab03_Bai02\obj\Debug\Lab03_Bai02.exe
+C:\Users\User\Desktop\UIT\Lập Trình Mạng Căn Bản\Thực Hành\Bài Làm\Lab03_Bai02\Lab03_Bai02\obj\Debug\Lab03_Bai02.pdb
+C:\Users\User\Desktop\Lab03_Bai02\Lab03_Bai02\bin\Debug\Lab03_Bai02.exe.config
+C:\Users\User\Desktop\Lab03_Bai02\Lab03_Bai02\bin\Debug\Lab03_Bai02.exe
+C:\Users\User\Desktop\Lab03_Bai02\Lab03_Bai02\bin\Debug\Lab03_Bai02.pdb
+C:\Users\User\Desktop\Lab03_Bai02\Lab03_Bai02\obj\Debug\Lab03_Bai02.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Lab03_Bai02\Lab03_Bai02\obj\Debug\Lab03_Bai02.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Lab03_Bai02\Lab03_Bai02\obj\Debug\Lab03_Bai02.Properties.Resources.resources
+C:\Users\User\Desktop\Lab03_Bai02\Lab03_Bai02\obj\Debug\Lab03_Bai02.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Lab03_Bai02\Lab03_Bai02\obj\Debug\Lab03_Bai02.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Lab03_Bai02\Lab03_Bai02\obj\Debug\Lab03_Bai02.exe
+C:\Users\User\Desktop\Lab03_Bai02\Lab03_Bai02\obj\Debug\Lab03_Bai02.pdb
+C:\Users\User\Desktop\Lab03_Bai02\Lab03_Bai02\obj\Debug\Lab03_Bai02.Server.resources
